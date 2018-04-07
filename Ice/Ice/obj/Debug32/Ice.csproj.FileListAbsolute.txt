@@ -1,0 +1,5 @@
+C:\code\Archipelago\Ice\Ice\bin\Ice.dll
+C:\code\Archipelago\Ice\Ice\bin\Ice.pdb
+C:\code\Archipelago\Ice\Ice\obj\Debug32\Ice.csprojResolveAssemblyReference.cache
+C:\code\Archipelago\Ice\Ice\obj\Debug32\Ice.dll
+C:\code\Archipelago\Ice\Ice\obj\Debug32\Ice.pdb
